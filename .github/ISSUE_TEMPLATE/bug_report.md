@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: Mod name [version][mc version]
 labels: ''
 assignees: ''
 
@@ -21,3 +21,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Logs & Crash reports**
